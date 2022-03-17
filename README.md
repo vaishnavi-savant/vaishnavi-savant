@@ -1,16 +1,17 @@
-### Hi there 👋
+# About me...
 
 <!--
 **vaishnavi-savant/vaishnavi-savant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+README.md
+Hi , I'm Vaishnavi!
+About Me🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+🌱 Learning more about and studying: Distributed Systems, Golang, Java, Open Source, CS Algorithms,web developer languages,python
 
-- 🔭 I’m currently working on website
-- 🌱 I’m currently learning computer science and Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: savantvaishnavi096@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I love to collaborate on Open-Source projects.
+💬 Ask me about books, best resources for learning Computer Science, research roadmap.
+📚 Read my Reasearch and Reviews on networking at google.
+📫 How to reach me: Linkedin.
+😄 Pronouns: She/Her/Hers
+⚡ Fun fact: I love to learn new things. Love code learn code and fun code!!!
