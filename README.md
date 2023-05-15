@@ -6,6 +6,8 @@
 README.md
 Hi , I'm Vaishnavi!
 About Me🚀
+I am a computer science and engineering student studying in 3rd year at MIT Aurangabad. Dedicated person with self disciplined and well-structured mind.  
+Looking forward to work as a software engineer.
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 🌱 Learning more about and studying: Distributed Systems, Golang, Java, Open Source, CS Algorithms,web developer languages,python
 
